@@ -1,5 +1,5 @@
 # twitter-captcha-solver
-Solve twitter captcha with python
+Solve twitter captcha with python, nodejs and capsolver.com
 
 
 When setting up a Twitter account, FunCaptcha uses two distinct site-keys. 
